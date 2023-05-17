@@ -11,7 +11,7 @@ Resources:
       EnableDnsHostnames: true
       Tags:
         - Key: Name
-          Value: CreativeHub-VPC
+          Value: Creative-VPC
 
   InternetGateway:
     Type: 'AWS::EC2::InternetGateway'
